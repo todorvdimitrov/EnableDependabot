@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependabotTestWebApplication", "DependabotTestWebApplication\DependabotTestWebApplication.csproj", "{936573CC-5A10-423C-A86F-A00FD0DD42A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependabotTestWebApplication.Data", "DependabotTestWebApplication.Data\DependabotTestWebApplication.Data.csproj", "{CD56A1F9-EBE7-46CE-A5A4-332AF9B1C4E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{936573CC-5A10-423C-A86F-A00FD0DD42A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{936573CC-5A10-423C-A86F-A00FD0DD42A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{936573CC-5A10-423C-A86F-A00FD0DD42A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{936573CC-5A10-423C-A86F-A00FD0DD42A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD56A1F9-EBE7-46CE-A5A4-332AF9B1C4E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD56A1F9-EBE7-46CE-A5A4-332AF9B1C4E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD56A1F9-EBE7-46CE-A5A4-332AF9B1C4E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD56A1F9-EBE7-46CE-A5A4-332AF9B1C4E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89142799-35F7-4ED1-A69F-90A1AEDD6814}
+	EndGlobalSection
+EndGlobal
