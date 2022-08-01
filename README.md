@@ -1,2 +1,2 @@
-# Enable-Depenabot
-Enable Depenabot
+# Enable-Dependabot
+Enable Dependabot
