@@ -11,3 +11,6 @@ updates:
        interval: "weekly"
        day: "wednesday"
        time: "09:48"
+    ignore:
+      - dependency-name: "Microsoft.EntityFrameworkCore.Tools"
+        update-types: ["version-update:semver-patch"]
