@@ -8,7 +8,9 @@ updates:
   - package-ecosystem: "nuget"
     directory: "./DependabotTestWebApplication" 
     schedule:
-      interval: "weekly"
+       interval: "weekly"
+       day: "Wednesday"
+       time: "09:41"
     ignore:
       - dependency-name: "AspNetCore.HealthChecks.SqlServer"
       - update-types: ["version-update:semver-major"]
