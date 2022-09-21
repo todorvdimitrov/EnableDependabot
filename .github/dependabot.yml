@@ -13,4 +13,4 @@ updates:
        time: "09:56"
     ignore:
       - dependency-name: "Microsoft.EntityFrameworkCore.Tools"
-      - update-types: ["version-update:semver-major"]
+        update-types: ["version-update:semver-major"]
