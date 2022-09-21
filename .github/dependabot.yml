@@ -10,7 +10,7 @@ updates:
     schedule:
        interval: "weekly"
        day: "wednesday"
-       time: "09:48"
+       time: "09:56"
     ignore:
       - dependency-name: "Microsoft.EntityFrameworkCore.Tools"
         update-types: ["version-update:semver-major"]
