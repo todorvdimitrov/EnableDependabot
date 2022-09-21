@@ -9,3 +9,6 @@ updates:
     directory: "./DependabotTestWebApplication" 
     schedule:
       interval: "weekly"
+    ignore:
+      - dependency-name: "AspNetCore.HealthChecks.SqlServer"
+      - update-types: ["version-update:semver-major"]
